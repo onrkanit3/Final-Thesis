@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8605ce4d0aa4fe782b50ee674b2669, type: 3}
+  m_Name: LowAlly
+  m_EditorClassIdentifier: 
+  deadMaterial: {fileID: 2100000, guid: 53e0c3849f6da4541ac2c9c8512cb219, type: 2}
+  stunnedMaterial: {fileID: 2100000, guid: fdcb0df0e74dd44349f52ff6f791a905, type: 2}
+  maxHealth: 50
+  maxSpeed: 5
+  damage: 5
+  size: 5
+  level: 1
